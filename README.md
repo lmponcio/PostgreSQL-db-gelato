@@ -20,3 +20,5 @@ I use as a guide [flavours listed in Messina's website](./media/inspiration.jpg)
 ### Bibliography
 - Notes from course [Design Databases with PostgreSQL by Codecademy](https://www.codecademy.com/learn/paths/design-databases-with-postgresql)
 - Diagram notation from https://vertabelo.com/blog/crow-s-foot-notation-in-vertabelo/
+- Diagrams drawn with http://draw.io/
+- Icecream flavours from https://gelatomessina.com/collections/classic-flavours
