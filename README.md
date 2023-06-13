@@ -22,7 +22,7 @@ I used postbird client. Below a screenshot of the [queries for creating the tabl
 <img src="./media/tables_creation.jpg" width="700" />
 
 ### Bibliography
-- Notes from course [Design Databases with PostgreSQL by Codecademy](https://www.codecademy.com/learn/paths/design-databases-with-postgresql)
+- Learned PostgreSQL at [Design Databases with PostgreSQL by Codecademy](https://www.codecademy.com/learn/paths/design-databases-with-postgresql)
 - Diagram notation from https://vertabelo.com/blog/crow-s-foot-notation-in-vertabelo/
 - Diagrams drawn with http://draw.io/
 - Icecream flavours from https://gelatomessina.com/collections/classic-flavours
