@@ -12,7 +12,7 @@ I chose dietary requirement icecream  because people close to me have dietary re
 I use as a guide [flavours listed in Messina's website](./media/inspiration.jpg), though the information I will fill the database with will be fictitious.
 
 ### Preliminary work - DB design 
-I used [draw.io](http://draw.io/) to design the schema
+I used [draw.io](http://draw.io/) to design the schema.
 
 <img src="./media/diagram.jpg" width="700" />
 
