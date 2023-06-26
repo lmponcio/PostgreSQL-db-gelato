@@ -20,12 +20,12 @@ I used Postbird Client to access my PostgreSQL database. Below a screenshot of t
 <img src="./media/tables_creation.jpg" width="700" />
 
 ### Filling tables
-I used [python for writing the INSERT queries](./insert_dietrs.py). 
+I used [python for writing the INSERT queries](./insert_icecreams.py) (I saved myself from writing hundreds of lines of SQL code manually - see SQL [here](./insert_icecream_dietrs.sql)). Below is a screenshot of the cross reference table for the many-to-many relationship between flavours and dietary requirements.
 <!-- TO ADD 
 The data for writing the query was extracted from an excel file (accessed it with [openpyxl](https://openpyxl.readthedocs.io/en/stable/index.html)) - this data comes from [my previous web scraper project](https://github.com/lmponcio/web-scraper-gelato). 
 -->
 
-<img src="./media/dietr_filled.jpg" width="700" />
+<img src="./media/many_to_many_cross_reference.jpg" width="700" />
 
 
 ### Bibliography
