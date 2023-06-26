@@ -9,7 +9,7 @@ I chose this project because people close to me have dietary requirements, so I 
 - **one-to-many** for the reviews done to each icecream flavour, and 
 - **one-to-one** for the address of each icecream shop.
 
-### Preliminary work - DB design 
+### Database Design 
 I used [draw.io](http://draw.io/) to design the schema.
 
 <img src="./media/diagram.jpg" width="700" />
