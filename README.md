@@ -4,7 +4,7 @@ In this project, I design a database of ice cream shops that sell products appro
 
 I decided to create this project to practice PostgreSQL, Database design, SQL Querying, Web scraping, and Data Wrangling.
 
-I chose this project because people close to me have dietary requirements, so I find the topic interesting (I was also inspired by the [Two Scoops Django book](https://www.feldroy.com/books/two-scoops-of-django-3-x) and [Messina's website](./media/inspiration.jpg)), and because the dietary requirements allow me to have all three types of relationships in one small project: 
+I chose this project because I find the topic interesting (also inspired by the [Two Scoops Django book](https://www.feldroy.com/books/two-scoops-of-django-3-x) and [Messina's website](./media/inspiration.jpg)), and because the dietary requirements allow me to have all three types of relationships in one small project: 
 - **many-to-many** for the ice creams that comply with multiple dietary requirements, 
 - **one-to-many** for the reviews done to each icecream flavour, and 
 - **one-to-one** for the address of each icecream shop.
