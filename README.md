@@ -20,7 +20,7 @@ I used Postbird Client to access my PostgreSQL database. Below a screenshot of t
 <img src="./media/tables_creation.jpg" width="700" />
 
 ### Filling tables
-I used [python for writing the INSERT queries](./insert_icecreams.py) (I saved myself from writing hundreds of lines of SQL code manually - see SQL [here](./insert_icecream_dietrs.sql)). Below is a screenshot of the cross reference table for the many-to-many relationship between flavours and dietary requirements.
+I used [python for writing the INSERT statements](./insert_icecreams.py) (I saved myself from writing hundreds of lines of SQL code manually - see SQL [here](./insert_icecream_dietrs.sql)). Below is a screenshot of the cross reference table for the many-to-many relationship between flavours and dietary requirements.
 
 <img src="./media/many_to_many_cross_reference.jpg" width="700" />
 
