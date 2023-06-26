@@ -1,3 +1,5 @@
+""" Script for writing the SQL statements to fill the tables "icecream" and "icecream_dietr"
+"""
 import openpyxl
 from dataclasses import dataclass
 
