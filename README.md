@@ -21,12 +21,12 @@ I used Postbird Client to access my PostgreSQL database. Below a screenshot of t
 
 ### Filling tables
 I used [python for writing the INSERT queries](./insert_icecreams.py) (I saved myself from writing hundreds of lines of SQL code manually - see SQL [here](./insert_icecream_dietrs.sql)). Below is a screenshot of the cross reference table for the many-to-many relationship between flavours and dietary requirements.
-<!-- TO ADD 
-The data for writing the query was extracted from an excel file (accessed it with [openpyxl](https://openpyxl.readthedocs.io/en/stable/index.html)) - this data comes from [my previous web scraper project](https://github.com/lmponcio/web-scraper-gelato). 
--->
 
 <img src="./media/many_to_many_cross_reference.jpg" width="700" />
 
+For the reviews table [I created random reviews with Python](./insert_reviews.py) to have data to work with. Please see below a screenshot of the Database Table after the [data](./insert_reviews.sql) was inserted:
+
+<img src="./media/review_table.jpg" width="700" />
 
 ### Bibliography
 - Learned PostgreSQL at [Design Databases with PostgreSQL by Codecademy](https://www.codecademy.com/learn/paths/design-databases-with-postgresql)
