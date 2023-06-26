@@ -32,4 +32,4 @@ The data for writing the query was extracted from an excel file (accessed it wit
 - Learned PostgreSQL at [Design Databases with PostgreSQL by Codecademy](https://www.codecademy.com/learn/paths/design-databases-with-postgresql)
 - Diagram notation from https://vertabelo.com/blog/crow-s-foot-notation-in-vertabelo/
 - Diagrams drawn with http://draw.io/
-- Icecream flavours from https://gelatomessina.com/collections/classic-flavours
+- Icecream flavours from https://gelatomessina.com/collections/classic-flavours - See my Web Scraper [Here](https://github.com/lmponcio/web-scraper-gelato) 
