@@ -1,4 +1,6 @@
 """ Script for writing the SQL statements to fill the tables "icecream" and "icecream_dietr"
+
+The data comes from an excel file that I previously populated with web scraping: https://github.com/lmponcio/web-scraper-gelato
 """
 import openpyxl
 from dataclasses import dataclass
