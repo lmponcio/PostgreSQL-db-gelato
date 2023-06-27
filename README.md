@@ -95,11 +95,11 @@ Please find below an image of the output of one of the queries in Postbird.
 
 I used pandas and matplotlib to create visualizations of the previously written queries. Please see below two of the visualizations:
 
-Monthly average ratings (see code [here]("./visualization_month_avg.py"))
+Monthly average ratings (see code [here](./visualization_month_avg.py))
 
 <img src="./media/visualization_monthly_average.jpg" width="700" />
 
-Nut-free gelato average ratings (see code [here]("./visualization_nut_free_rating.py"))
+Nut-free gelato average ratings (see code [here](./visualization_nut_free_rating.py))
 
 <img src="./media/visualization_nutfree_ratings.jpg" width="700" />
 
