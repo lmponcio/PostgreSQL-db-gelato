@@ -90,6 +90,17 @@ Please find below an image of the output of one of the queries in Postbird.
 
 <img src="./media/query.jpg" width="700" />
 
+### Visualization
+
+I used pandas and matplotlib to create visualizations of the previously written queries. Please see below two of the visualizations:
+
+Monthly average ratings (see code [here]("./visualization_month_avg.py"))
+
+<img src="./media/visualization_monthly_average.jpg" width="700" />
+
+Nut-free gelato average ratings (see code [here]("./visualization_nut_free_rating.py"))
+
+<img src="./media/visualization_nutfree_ratings.jpg" width="700" />
 
 ### Bibliography
 - Learned PostgreSQL at [Design Databases with PostgreSQL by Codecademy](https://www.codecademy.com/learn/paths/design-databases-with-postgresql)
