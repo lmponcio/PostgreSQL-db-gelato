@@ -104,7 +104,9 @@ Nut-free gelato average ratings (see code [here](./visualization_nut_free_rating
 <img src="./media/visualization_nutfree_ratings.jpg" width="700" />
 
 ### Bibliography
+<!--
 - Learned PostgreSQL at [Design Databases with PostgreSQL by Codecademy](https://www.codecademy.com/learn/paths/design-databases-with-postgresql)
 - Diagram notation from https://vertabelo.com/blog/crow-s-foot-notation-in-vertabelo/
+-->
 - Diagrams drawn with http://draw.io/
 - Icecream flavours from https://gelatomessina.com/collections/classic-flavours - See my Web Scraper [Here](https://github.com/lmponcio/web-scraper-gelato) 
