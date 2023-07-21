@@ -18,7 +18,7 @@ I used [draw.io](http://draw.io/) to design the schema.
 <img src="./media/diagram.jpg" width="700" />
 
 ### Tables creation
-I used Postbird Client to access my PostgreSQL database. Below a screenshot of the [queries for creating the tables](./create_tables.sql).
+I used Postbird Client to access my PostgreSQL database. Below a screenshot of the [statements for creating the tables](./create_tables.sql).
 
 <img src="./media/tables_creation.jpg" width="700" />
 
