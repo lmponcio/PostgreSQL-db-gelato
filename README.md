@@ -2,6 +2,8 @@
 
 In this project, I design a database of ice cream shops that sell products appropriate for people with dietary requirements.
 
+I created this project to practice SQL querying and database design. I list below the skills I applied:
+
 **Skills applied:** 
 - PostgreSQL
 - Database design
